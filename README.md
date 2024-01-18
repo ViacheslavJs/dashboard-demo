@@ -1,6 +1,6 @@
 # Example of admin panel layout
 
-Features: 
+Peculiarities: 
  - pagination
 
 see example [https://viacheslavjs.github.io/dashboard-demo/customers.html](https://viacheslavjs.github.io/dashboard-demo/customers.html)
